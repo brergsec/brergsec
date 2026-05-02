@@ -138,19 +138,6 @@ NEXT
   🇺🇸  English     →  B2 / C1  (comfortable with technical content —   still studying)
   🇩🇪  German      →  Beginner (started recently, studying consistently)
 ```
-
----
-
-## `$ ./stats.sh`
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brergsec&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brergsec&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9)
-
-</div>
-
 ---
 
 ## `$ ./contact.sh`
