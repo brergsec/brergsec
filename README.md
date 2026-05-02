@@ -121,6 +121,7 @@ NEXT
 ──────────────────────────────────────────────────────
   [⬛]  CompTIA Security+
   [⬛]  Cisco CyberOps Associate
+```
 
 ---
 
