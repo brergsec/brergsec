@@ -121,13 +121,6 @@ NEXT
 ──────────────────────────────────────────────────────
   [⬛]  CompTIA Security+
   [⬛]  Cisco CyberOps Associate
-```
-
-<div align="center">
-
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Jiqiren.png)](https://tryhackme.com/p/Jiqiren)
-
-</div>
 
 ---
 
