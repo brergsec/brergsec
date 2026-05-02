@@ -109,18 +109,18 @@ SCRIPTING & DATA
 ```
 COMPLETED
 ──────────────────────────────────────────────────────
-  [✓]  TryHackMe   — Pre-Security Path
-  [✓]  Curso em Vídeo — Python (120 hours)
+  [✅]  TryHackMe   — Pre-Security Path
+  [✅]  Curso em Vídeo — Python (120 hours)
 
 IN PROGRESS
 ──────────────────────────────────────────────────────
-  [⟳]  Google Cybersecurity Certificate
-  [⟳]  TryHackMe   — Security 101 Path
+  [🔁]  Google Cybersecurity Certificate
+  [🔁]  TryHackMe   — Security 101 Path
 
 NEXT
 ──────────────────────────────────────────────────────
-  [ ]  CompTIA Security+
-  [ ]  Cisco CyberOps Associate
+  [⬛]  CompTIA Security+
+  [⬛]  Cisco CyberOps Associate
 ```
 
 <div align="center">
